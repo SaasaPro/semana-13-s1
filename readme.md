@@ -31,3 +31,15 @@ Es una forma de comunicarse entre el cliente y el servidor. Se hacen llamados a 
 
 ### Ejemplo de API REST
 https://jsonplaceholder.typicode.com
+
+## Asincronia
+
+### Como realizar peticiones
+1. XmlHttpRequest (Objeto nativo)
+2. Fetch (Objeto nativo)
+3. Axios (libreria)
+
+### Como manejar la data
+1. Callback
+2. Promesas
+3. Async/Await

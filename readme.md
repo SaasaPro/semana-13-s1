@@ -26,5 +26,8 @@ CRUD: Create (POST), Read (GET), Update (PUT), Delete (DELETE)
 ## Cookies
 Son datos que se almacenan en el navegador del cliente.
 
-## Ejemplo de API
-jsonplaceholder: https://jsonplaceholder.typicode.com
+## API REST
+Es una forma de comunicarse entre el cliente y el servidor. Se hacen llamados a traves de URLs.
+
+### Ejemplo de API REST
+https://jsonplaceholder.typicode.com
